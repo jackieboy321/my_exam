@@ -12,8 +12,18 @@
 3. 增加简单的图形界面，使得可以使用鼠标选择答案，而不必键盘输入答案。
 
 以下是程序功能截图举例：
+
+图1：程序运行截图，123456为输入的考试ID样例
 ![1](https://user-images.githubusercontent.com/7235411/229962026-db2652dd-3bc1-4656-85e2-d2bfed877988.png)
+
+图2：考试结束显示成绩
 ![2](https://user-images.githubusercontent.com/7235411/229962054-44b1ed17-aa31-41d9-8880-c24a3f32f4ad.png)
+
+图3：在此次考试后，程序目录下自动生成的3个文件
 ![3](https://user-images.githubusercontent.com/7235411/229962070-12d70db2-42ca-487e-b1e4-086dbadf5d62.png)
+
+图4：“错题类似.txt”文件中，上面红圈内是此次考试做错的第36题，下面红圈内是把36题与题库中比对下来相似度超过80%的题目
 ![4](https://user-images.githubusercontent.com/7235411/229962091-a66389e6-0169-4f05-b534-78787848f309.png)
+
+图5：自动生成的JSON文件内容，红线处是你输入的考试ID（同一个人每次考试都须使用相同ID，才会正确记录错题与计算错题权重）
 ![5](https://user-images.githubusercontent.com/7235411/229962099-67d06db8-1e72-455a-afd0-604f9eb389c2.png)

@@ -10,3 +10,10 @@
 1. 目前程序为了测试运行稳定性、方便纠错，只做了命令行窗口运行（CMD窗口运行）的方式，没有图形界面，需要手动输入选择题的'A''B''C''D'答案序号、或者是非题的'对'或'错'。
 2. 由于原题库中存在极少部分带有图片内容的题目，因此在目前CMD命令行运行的环境下，此类带有图片的题目无法显示图片内容。
 3. 增加简单的图形界面，使得可以使用鼠标选择答案，而不必键盘输入答案。
+
+以下是程序功能截图举例：
+![1](https://user-images.githubusercontent.com/7235411/229962026-db2652dd-3bc1-4656-85e2-d2bfed877988.png)
+![2](https://user-images.githubusercontent.com/7235411/229962054-44b1ed17-aa31-41d9-8880-c24a3f32f4ad.png)
+![3](https://user-images.githubusercontent.com/7235411/229962070-12d70db2-42ca-487e-b1e4-086dbadf5d62.png)
+![4](https://user-images.githubusercontent.com/7235411/229962091-a66389e6-0169-4f05-b534-78787848f309.png)
+![5](https://user-images.githubusercontent.com/7235411/229962099-67d06db8-1e72-455a-afd0-604f9eb389c2.png)
